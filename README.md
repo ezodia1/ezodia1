@@ -1,8 +1,8 @@
 # Enzo Bombassaro
 
-**`Analista de Dados`**
+**`Engenheiro de Dados`**
 
-Tenho 21 anos e sou natural do Rio Grande do Sul. Sou apaixonado por tecnologia e estou em um novo momento de carreira onde tenho feito a transição da área que eu atuava para a área de Análise de Dados, onde descobri esse novo amor.
+Tenho 21 anos e sou natural do Rio Grande do Sul. Sou apaixonado por tecnologia e estou em um novo momento de carreira onde tenho feito a transição da área que eu atuava para a área de Engenharia de Dados, onde descobri esse novo amor.
 
 <p align="left">
     <a href="https://github.com/ezodia1?tab=repositories&sort=stargazers">
